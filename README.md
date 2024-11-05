@@ -11,7 +11,7 @@ The car price prediction model is trained on a dataset obtained from [source], w
 To run the web application locally, please follow these steps:
 
 1. Clone the repository:                                                                                                                   ```shell
-   git clone https://github.com/Saksham2502/Car-Price-Predictor.git
+   git clone [https://github.com/ajaySCEF/Car-Price-Predictor]
 
 2. Install the reqiured Dependencies
 3. Run the Flask Application
